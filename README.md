@@ -1,4 +1,5 @@
 # GPT-Based Smart Assistant
+Create an interactive voice-controlled assistant using OpenAI's GPT model. Convert speech to text process.
 
 ## Overview
 GPT-Based Smart Assistant is a voice-controlled AI assistant leveraging OpenAI's GPT model to process and respond to user queries in natural language. It enhances user interaction by enabling seamless speech recognition and text-to-speech conversion.
