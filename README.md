@@ -11,7 +11,7 @@ GPT-Based Smart Assistant is a voice-controlled AI assistant leveraging OpenAI's
 - Supports general queries and web browsing commands
 
 ## Workflow
-![Project Workflow](Screenshot%20(176).png)
+![Project Workflow](https://github.com/harishhgowda/GPT-Based_Smart_Assistant/blob/main/flow.png)
 1. Capture audio command from the user
 2. Convert speech to text
 3. Process text using the ChatGPT API
