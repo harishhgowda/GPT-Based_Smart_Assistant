@@ -1,1 +1,1 @@
-api_data = "__your_API_Key_goes_here__"
+api_data = "your_API_Key_goes_here__"
