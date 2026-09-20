@@ -1,4 +1,4 @@
-from openai import OpenAI.
+from openai import OpenAI
 from apikey import api_data 
 import os
 import speech_recognition as sr # Converts my voice commands to text 
